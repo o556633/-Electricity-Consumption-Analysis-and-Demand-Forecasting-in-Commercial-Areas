@@ -3,7 +3,7 @@
 
 > Predicting regional electricity usage (TOTAL_ELEC) using gas consumption patterns,
 > facility distribution, and spatio-temporal features.
-> **Achieved 14th place** out of [N] teams.
+> **Achieved 14th place** out of ~500 teams.
 
 ---
 
